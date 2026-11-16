@@ -6,7 +6,7 @@ Aufruf:
 
 woerter.json: Liste von {"w": Wort, "s": Start, "e": Ende} in Sekunden, wie faster-whisper sie liefert.
 Stil nach dem Untertitel-Skill: 1 bis 3 Wörter je Einblendung, weiß mit schwarzem Rand,
-das gesprochene Wort gelb, unteres Mittelfeld mit etwa 25 % Abstand von unten (1080x1920).
+das gesprochene Wort grün, unteres Mittelfeld mit etwa 25 % Abstand von unten (1080x1920).
 """
 import json
 import sys
@@ -17,7 +17,7 @@ RAND = 10
 ABSTAND_UNTEN = 480  # 25 % von 1920
 MAX_WOERTER = 3
 MAX_ZEICHEN = 14  # bei Größe 150 passt mehr nicht mit Rand in 1080 px Breite
-GELB = r"{\c&H00FFFF&}"  # ASS-Farben sind BGR
+HERVOR = r"{\c&H14FF39&}"  # Neongrün #39FF14; ASS-Farben sind BGR
 WEISS = r"{\c&HFFFFFF&}"
 
 KOPF = f"""[Script Info]
@@ -65,7 +65,7 @@ def main() -> None:
     for g in gruppen(woerter):
         for i, w in enumerate(g):
             ende = g[i + 1]["s"] if i + 1 < len(g) else w["e"]
-            text = " ".join((GELB if j == i else WEISS) + x["w"].upper() for j, x in enumerate(g))
+            text = " ".join((HERVOR if j == i else WEISS) + x["w"].upper() for j, x in enumerate(g))
             zeilen.append(f"Dialogue: 0,{zeit(w['s'])},{zeit(max(ende, w['s'] + 0.05))},Wort,,0,0,0,,{text}")
     with open(sys.argv[2], "w", encoding="utf-8") as f:
         f.write(KOPF + "\n".join(zeilen) + "\n")
