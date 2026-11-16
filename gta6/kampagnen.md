@@ -15,6 +15,10 @@ Geprüft, aber keine bezahlte Kampagne gefunden:
 - [clipflip.io/advertiser/gta6](https://www.clipflip.io/advertiser/gta6) ist eine Werbeseite für Marken, vor allem Casinos. Eine offene Kampagne für Clipper ist dort nicht angegeben.
 - Die [Discover-Seite von Content Rewards](https://contentrewards.com/c/discover) zeigt nur die Kampagne Tokyo Girl mit GTA-6-Bezug.
 
+## Dein Stand
+
+- GTA 6 Clips: als Clipper registriert (laut Nutzer, 16.11.2026).
+
 ## Hintergrund
 
 - Der Median-Satz auf Content Rewards liegt bei 1,00 $ je 1.000 Aufrufe über 719 laufende Kampagnen. Für YouTube liegt er bei 1,10 $ über 418 Kampagnen. Stand 16.11.2026, Quelle: [contentrewards.com/blog](https://contentrewards.com/blog/get-paid-clip-streamers)
