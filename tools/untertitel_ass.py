@@ -12,10 +12,11 @@ import json
 import sys
 
 SCHRIFT = "League Spartan Black"
-GROESSE = 110
-RAND = 8
+GROESSE = 150  # bewusst über den 90-110 des Skills, Wunsch des Nutzers (16.11.2026)
+RAND = 10
 ABSTAND_UNTEN = 480  # 25 % von 1920
 MAX_WOERTER = 3
+MAX_ZEICHEN = 14  # bei Größe 150 passt mehr nicht mit Rand in 1080 px Breite
 GELB = r"{\c&H00FFFF&}"  # ASS-Farben sind BGR
 WEISS = r"{\c&HFFFFFF&}"
 
@@ -43,6 +44,9 @@ def gruppen(woerter: list[dict]) -> list[list[dict]]:
     """Teilt in Gruppen von höchstens drei Wörtern, nach Satzzeichen oder Pausen neu beginnen."""
     alle, akt = [], []
     for i, w in enumerate(woerter):
+        if akt and len(" ".join(x["w"] for x in akt + [w])) > MAX_ZEICHEN:
+            alle.append(akt)
+            akt = []
         akt.append(w)
         pause = i + 1 < len(woerter) and woerter[i + 1]["s"] - w["e"] > 0.5
         if len(akt) == MAX_WOERTER or w["w"][-1:] in ".,!?" or pause:
