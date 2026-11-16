@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl * https://contentrewards.com/*)",
+      "Bash(curl * https://docs.whop.com/*)",
+      "Bash(curl * https://gta6clipping.com/*)",
+      "Bash(curl * https://gta6-clips.com/*)",
+      "Bash(curl * https://www.clipflip.io/*)",
+      "WebFetch(domain:contentrewards.com)",
+      "WebFetch(domain:docs.whop.com)",
+      "WebFetch(domain:gta6clipping.com)",
+      "WebFetch(domain:gta6-clips.com)",
+      "WebFetch(domain:www.clipflip.io)"
+    ]
+  }
+}
