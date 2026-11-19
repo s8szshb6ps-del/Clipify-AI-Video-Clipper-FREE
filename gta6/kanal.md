@@ -119,3 +119,16 @@ Grundsätze für später:
 - Mehrfachkonten nur, wenn Kampagne und YouTube es erlauben. Sonst: `unklar, nachfragen`.
 - Uhrzeiten sind Vorschläge, keine Regel. Belegte beste Zeiten für deine Zuschauer: keine belastbare Angabe.
   YouTube Studio zeigt sie dir, sobald du Abonnenten hast.
+
+## Wochenplan ab 19.11.2026 (mit dem Nutzer vereinbart)
+
+Ein Kanal (GTA 6), eine Kampagne (Kai Cenat Pool), ein fester Rhythmus.
+
+| Was | Wie oft | Wer |
+|---|---|---|
+| Kai-Clips für den GTA-6-Kanal | 2 pro Tag, ein paar Stunden Abstand | Claude: Momente und Schnitt; Nutzer: prüfen, posten, sofort einreichen |
+| Aufrufe in `gta6/tracker.csv` | 1× täglich | Nutzer schickt Zahlen von der Kampagnenseite, Claude trägt ein |
+| Rückblick | Sonntag, 22.11.2026 | gemeinsam: welcher Clip lief am besten, mehr davon |
+
+Bewusst liegen gelassen: Checkpoint Moments, weitere Kampagnen (Lacy, Clix, SypherPK, Dasgasd3m), lange Videos.
+Entscheidung über den nächsten Schritt nach dem Rückblick, anhand der Zahlen.
