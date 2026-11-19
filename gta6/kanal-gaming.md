@@ -5,17 +5,24 @@ Erstellt am 19.11.2026. Plattform: YouTube Shorts, Sprache: Englisch, Nische: Ga
 
 Keiner der Namen enthält eine Spielemarke oder einen Studionamen. Nie „official“, keine fremden Logos.
 
-## Fünf Namensvorschläge
+## Namensvorschläge mit freiem Handle
 
-Ob ein Handle frei ist, siehst du erst beim Anlegen auf YouTube.
+Am 19.11.2026 gegen 14:30 Uhr (Wien) auf YouTube geprüft: `youtube.com/@handle` lieferte „404 Not Found“, das Handle
+war also frei (Gegenprobe: ein Fantasie-Handle lieferte ebenfalls 404, ein vergebenes 200). Handles können jederzeit
+vergeben werden; frei heißt außerdem nicht, dass kein anderer Kanal den gleichen Anzeigenamen trägt.
 
 | Kanalname | Handle | Idee dahinter |
 |---|---|---|
-| **Checkpoint Clips** (Favorit) | @checkpointclips | Jeder kennt Checkpoints aus Spielen; klingt nach Gaming, ohne ein Spiel zu nennen |
-| Press Start Shorts | @pressstartshorts | Startbildschirm-Gefühl, sagt gleich, dass es Shorts sind |
-| Final Boss Clips | @finalbossclips | Steht für den großen Moment; passt zu Reaktionen und Trailern |
-| Loading Screen Clips | @loadingscreenclips | Clips für die Wartezeit; leicht ironisch |
-| Next Level Moments | @nextlevelmoments | Breit, passt zu Trailern wie zu Streamer-Momenten |
+| **Checkpoint Moments** (Favorit) | @checkpointmoments | Jeder kennt Checkpoints aus Spielen; passt zu Trailern und Streamer-Momenten |
+| Questline Daily | @questlinedaily | Klingt nach Abenteuer und täglichem Upload |
+| Rage Clip Daily | @rageclipdaily | Passt zu lauten Streamer-Reaktionen, weniger zu Trailern |
+| Gamer Clip Daily | @gamerclipdaily | Sagt klar, was kommt; eher allgemein |
+| Speedrun Reel | @speedrunreel | Kurz und einprägsam; Speedrun-Fans könnten Speedruns erwarten |
+
+Weitere freie Handles mit Punkt: @cutscene.clips, @xpdrop.clips, @boss.fight.daily.
+
+Bereits vergeben (geprüft): @checkpointclips, @pressstartshorts, @finalbossclips, @loadingscreenclips,
+@nextlevelmoments, @checkpointdaily, @savepointclips, @sidequestclips, @bossfightdaily, @xpdropclips u. a.
 
 ## Kanalbeschreibung (unter 1.000 Zeichen)
 
