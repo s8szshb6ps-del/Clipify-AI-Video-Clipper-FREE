@@ -30,3 +30,21 @@ Methode wie oben (Lautstärke-Spitzen, faster-whisper small, Standbilder alle 10
 | 6 | 24:30:40 | 24:33:00 | Mission „Stop the armored van“: Verfolgung des Geldtransporters auf Motorrädern, der Transporter kippt um, Überfall, Flucht auf Dirtbikes mit 4 Sternen; Kai: „Oh, this is getting good bro“ (+8,5) | 5 | [24:30:40](https://www.twitch.tv/videos/2932305259?t=24h30m40s) |
 | 7 | 24:48:10 | 24:49:00 | Kai rast im Buggy über die Landstraße, kracht in ein Auto und überschlägt sich (+7,8) | 4 | [24:48:10](https://www.twitch.tv/videos/2932305259?t=24h48m10s) |
 | 8 | 24:50:20 | 24:50:50 | Kai liest beim Fahren am Handy die Nachricht „Bodies found in trunk of abandoned car“, Anspielung auf frühere Missionen (+5,7); Story-Anspielung, Spoiler-Warnung nötig | 3 | [24:50:20](https://www.twitch.tv/videos/2932305259?t=24h50m20s) |
+
+## Lustige Momente laut Twitch-Clips der Zuschauer
+
+Quelle: meistgesehene Twitch-Clips auf twitch.tv/kaicenat (Zeitraum 24 h), abgerufen am 19.11.2026 gegen 15:25 Uhr (Wien).
+Die VOD-Zeit ist aus dem Erstellzeitpunkt des Clips berechnet (VOD-Start 18.11.2026, 12:59:58 UTC); Standbild je Stelle geprüft.
+Wichtig: Kai spielt GTA 6 schon ab Stunde 0 des VODs, nicht erst ab Stunde 15.
+
+Die Aufrufe sind die der Twitch-Clips, keine Prognose für Shorts. Beliebte Stellen clippen vermutlich auch viele andere.
+
+| Nr | Start | Ende | Grund (Twitch-Clip, Aufrufe laut Twitch, Bild) | Stärke 1 bis 5 | Link mit Zeitstempel |
+|---|---|---|---|---|---|
+| 9 | 2:54:55 | 2:56:23 | „kai cenat argues with his new girlfriend“ (7.873) und direkt danach „LISTEN!!!!!!!“ (672); Kai streitet mit seiner Freundin im Spiel | 5 | [2:54:55](https://www.twitch.tv/videos/2932305259?t=2h54m55s) |
+| 10 | 1:43:21 | 1:43:51 | „kai is shoocked you have to put clothes on after sleeping in Gta 6“ (441) | 4 | [1:43:21](https://www.twitch.tv/videos/2932305259?t=1h43m21s) |
+| 11 | 3:23:37 | 3:24:23 | „Kai Cenat's Van FLIPS in GTA 6, Then Cops Catch Him 😭“ (119) | 4 | [3:23:37](https://www.twitch.tv/videos/2932305259?t=3h23m37s) |
+| 12 | 2:02:04 | 2:04:12 | „kai cenat dumps body in the river“ (214), dann „kai running from cops“ (201) am Strand | 4 | [2:02:04](https://www.twitch.tv/videos/2932305259?t=2h02m04s) |
+| 13 | 1:25:04 | 1:25:51 | „AYYYOOO WHAT!?“ (126), Kai beim Hausausbau | 3 | [1:25:04](https://www.twitch.tv/videos/2932305259?t=1h25m04s) |
+
+Ausgelassen (sexuelle Inhalte, YouTube-Risiko): „freaky kai“ (5.665), „gyaaat“ (4.767), „Kai wants a side girl“ (2.675, Blick durch ein Guckloch), „pegging in gta 6 gone wild“ (2.498), „KAI CENAT GOT BANNED BECAUSE OF GTA 6 NUDITY“ (498) und ähnliche.
