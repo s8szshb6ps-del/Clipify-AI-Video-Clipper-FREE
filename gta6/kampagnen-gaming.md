@@ -1,5 +1,8 @@
 # Kampagnen für Checkpoint Moments (@checkpointmoments)
 
+**Stand 19.11.2026: pausiert.** Der Nutzer überlegt sich eine andere Art, den zweiten Kanal zu bespielen. SypherPK und Metaphor
+sind zurückgestellt; der Twitch-Videoserver für SypherPKs VOD (d1m7jfoe9zdc1j.cloudfront.net) ist nicht freigegeben.
+
 Abgerufen am 19.11.2026 gegen 14:45 Uhr (Wien) direkt von Content Rewards. Plattform: YouTube Shorts.
 Alle drei laufen über „Clipping Culture“. Regeln im Detail (1 Regel, Referenzdateien) erst nach Beitritt sichtbar.
 
