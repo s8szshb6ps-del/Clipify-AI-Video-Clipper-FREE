@@ -1,0 +1,21 @@
+# Momente: Kai Cenat, GTA 6 (Twitch)
+
+Quelle: [VOD 2932305259](https://www.twitch.tv/videos/2932305259) „🌴PLAYING GTA 6 FOR THE FIRST TIME🌴“, Kampagne:
+Kai Cenat – $10,000 GTA 6 Pool (siehe `gta6/kampagnen.md`). Ausgewertet am 19.11.2026: VOD-Zeit 15:00:00 bis 18:20:00,
+die GTA-6-Session vor dem Sleep-Stream.
+
+Methode: Lautstärke-Spitzen (ffmpeg ebur128, kurzzeitige Lautheit) als Hinweis, Transkript (faster-whisper base,
+lückenhaft bei Spielgeräusch) und je ein Standbild. Kein Chat ausgewertet. Start und Ende sind vorläufig und werden
+beim Schnitt am echten Bild festgelegt.
+
+| Nr | Start | Ende | Grund (Satz aus dem Transkript, Lautstärke, Bild) | Stärke 1 bis 5 | Link mit Zeitstempel |
+|---|---|---|---|---|---|
+| 1 | 15:23:55 | 15:24:40 | Mission „Escape the compound“: Kai rückwärts im Auto, „Reverse! Reverse! Let's get the fuck out of here!“; Lautstärke +7,6 über Median | 5 | [15:23:55](https://www.twitch.tv/videos/2932305259?t=15h23m55s) |
+| 2 | 17:12:00 | 17:15:00 | Verfolgung mit Sheriff-Wagen, 4–5 Fahndungssterne; „why did he pull up like that?“, bei 17:14:41 „Oh my fucking god“ (+8,8) | 5 | [17:12:00](https://www.twitch.tv/videos/2932305259?t=17h12m00s) |
+| 3 | 15:29:45 | 15:30:30 | Schießerei „Defend yourself“, Kai unter Beschuss (+7,8) | 4 | [15:29:45](https://www.twitch.tv/videos/2932305259?t=15h29m45s) |
+| 4 | 17:05:05 | 17:05:45 | Schießerei in einem Gebäude, 3 Sterne, „Fuck, did you see?“ (+7,6) | 4 | [17:05:05](https://www.twitch.tv/videos/2932305259?t=17h05m05s) |
+| 5 | 16:37:25 | 16:38:05 | Lautstärke-Spitze (+7,8) bei 2 Sternen über einem Gelände, Anlass im Bild unklar | 2 | [16:37:25](https://www.twitch.tv/videos/2932305259?t=16h37m25s) |
+
+Ausgelassen: 17:55 und 18:01 (Stripclub). Sexuelle Inhalte gefährden auf YouTube Monetarisierung und Reichweite.
+
+Die Stärke ist meine Einschätzung aus Lautstärke, Bild und Transkript. Sie sagt nichts über spätere Aufrufe.
