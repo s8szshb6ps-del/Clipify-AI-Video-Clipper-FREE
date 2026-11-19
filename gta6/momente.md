@@ -12,8 +12,8 @@ beim Schnitt am echten Bild festgelegt.
 |---|---|---|---|---|---|
 | 1 | 15:23:55 | 15:24:40 | Mission „Escape the compound“: Kai rückwärts im Auto, „Reverse! Reverse! Let's get the fuck out of here!“; Lautstärke +7,6 über Median | 5 | [15:23:55](https://www.twitch.tv/videos/2932305259?t=15h23m55s) |
 | 2 | 17:12:00 | 17:15:00 | Verfolgung mit Sheriff-Wagen, 4–5 Fahndungssterne; „why did he pull up like that?“, bei 17:14:41 „Oh my fucking god“ (+8,8) | 5 | [17:12:00](https://www.twitch.tv/videos/2932305259?t=17h12m00s) |
-| 3 | 15:29:45 | 15:30:30 | Schießerei „Defend yourself“, Kai unter Beschuss (+7,8) | 4 | [15:29:45](https://www.twitch.tv/videos/2932305259?t=15h29m45s) |
-| 4 | 17:05:05 | 17:05:45 | Schießerei in einem Gebäude, 3 Sterne, „Fuck, did you see?“ (+7,6) | 4 | [17:05:05](https://www.twitch.tv/videos/2932305259?t=17h05m05s) |
+| 3 | 15:29:45 | 15:30:30 | Schießerei „Defend yourself“, Kai unter Beschuss (+7,8). Beim Schnitt geprüft: Kai reagiert kaum und sagt nichts, deshalb zurückgestellt | 2 | [15:29:45](https://www.twitch.tv/videos/2932305259?t=15h29m45s) |
+| 4 | 17:04:51 | 17:05:40 | Kai liest einen Tresor-Code vor („3, 6, 5, 1 … I just did that“), dann stürmt die Polizei herein, Schusswechsel, Flucht auf dem Quad (+7,6). Geschnitten als Clip 03 | 4 | [17:05:05](https://www.twitch.tv/videos/2932305259?t=17h05m05s) |
 | 5 | 16:37:25 | 16:38:05 | Lautstärke-Spitze (+7,8) bei 2 Sternen über einem Gelände, Anlass im Bild unklar | 2 | [16:37:25](https://www.twitch.tv/videos/2932305259?t=16h37m25s) |
 
 Ausgelassen: 17:55 und 18:01 (Stripclub). Sexuelle Inhalte gefährden auf YouTube Monetarisierung und Reichweite.
