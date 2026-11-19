@@ -18,7 +18,16 @@ Alle drei laufen über „Clipping Culture“. Regeln im Detail (1 Regel, Refere
 | Replays | [2929917089](https://www.twitch.tv/videos/2929917089) | 15.11.2026 20:05 | 7 h 14 min | Day 13 - Finding the Pirate Shop Token in Fortnite! |
 | Maddynf | [2929952825](https://www.twitch.tv/videos/2929952825) | 15.11.2026 20:46 | 5 h 59 min | Checking out UEFN Games with @Replays + @SypherPK |
 
-Regeln: 4 Referenzdateien, erst nach Beitritt sichtbar.
+Regeln (vom Nutzer eingefügt, 19.11.2026, beigetreten mit Checkpoint Moments):
+- Caption muss **#fortnitecreative** und **#uefn** enthalten.
+- Caption oder Text im Video nennt mindestens einen Namen: Sypher, Maddynf oder Replays.
+- Material nur aus den VODs vom 15.11.; **erlaubte Zeitstempel stehen bei jedem Link** (Referenzdateien).
+- Im Mittelpunkt: Sypher, Replays und Maddynf **alle drei zusammen beim Spielen**.
+- Nische des Kontos muss passen; Publikum mind. 50 % aus USA, CA, AU, UK, NZ.
+- Nur TikTok, Instagram Reels, YouTube Shorts, X.
+- Auszahlung ab 10.000 Aufrufen je Video und nach Freigabe.
+- Keine negative Darstellung von Sypher, Maddynf, Replays, Fortnite, Epic Games, UEFN; kein „Hate farming“.
+- Keine Manipulation (Bots, Reposts, Collab-Posts), keine KI-Videos, keine Logos, nur englische Captions und Texte.
 
 ## Metaphor: ReFantazio, Regeln nach Beitritt
 
