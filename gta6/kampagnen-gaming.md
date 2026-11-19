@@ -21,7 +21,8 @@ Alle drei laufen über „Clipping Culture“. Regeln im Detail (1 Regel, Refere
 Regeln (vom Nutzer eingefügt, 19.11.2026, beigetreten mit Checkpoint Moments):
 - Caption muss **#fortnitecreative** und **#uefn** enthalten.
 - Caption oder Text im Video nennt mindestens einen Namen: Sypher, Maddynf oder Replays.
-- Material nur aus den VODs vom 15.11.; **erlaubte Zeitstempel stehen bei jedem Link** (Referenzdateien).
+- Material nur aus den VODs vom 15.11., **nur in diesen Zeitbereichen** (laut [reachclipping.com/SypherPK](https://reachclipping.com/SypherPK), abgerufen 19.11.2026):
+  Sypher VOD 2929935152 ab 45:50 · Replays VOD 2929917089 von 1:06:07 bis 3:03:10 · Maddynf VOD 2929952825 von 0:25:00 bis 2:22:00.
 - Im Mittelpunkt: Sypher, Replays und Maddynf **alle drei zusammen beim Spielen**.
 - Nische des Kontos muss passen; Publikum mind. 50 % aus USA, CA, AU, UK, NZ.
 - Nur TikTok, Instagram Reels, YouTube Shorts, X.
