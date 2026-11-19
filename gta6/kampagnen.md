@@ -18,6 +18,8 @@ Nicht passend oder nicht geprüft:
 ## Dein Stand
 
 - GTA 6 Clips: als Clipper registriert (laut Nutzer, 16.11.2026).
+- Kai Cenat Pool: beigetreten (laut Nutzer, 19.11.2026).
+- YouTube-Kanal: reiner GTA-6-Kanal (laut Nutzer, 19.11.2026), erfüllt damit die Konto-Pflicht von Dasgasd3m x RUCKUS.
 
 ## Hintergrund
 
