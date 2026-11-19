@@ -1,19 +1,19 @@
 # GTA-6-Clipping-Kampagnen
 
-Abgerufen am 16.11.2026, alle Werte direkt auf der jeweiligen Seite geprüft.
+Abgerufen am 19.11.2026 gegen 13:00 Uhr (Wien), Release-Tag. Werte direkt von der jeweiligen Seite.
 Gesucht für: Streamer egal, Plattform YouTube Shorts, Land Österreich.
 
 | Kampagne | Streamer | Satz je 1.000 | Restbudget | Plattformen | Regeln (Länge, Tags, Wasserzeichen) | Link | Abgerufen am |
 |---|---|---|---|---|---|---|---|
-| GTA 6 Clipping Campaign – Tokyo Girl (Placements) | keiner, Musik-Kampagne | 0,70 $ (min. 2,00 $, max. 35,00 $ je Clip) | 1.912 $ von 2.000 $, „Accepting clips“ | **nur TikTok und Instagram** | Song „Tokyo Girl“ von Passive, GTA-6-Thema; Rest erst nach Beitritt sichtbar | [contentrewards.com](https://contentrewards.com/c/campaigns/40046522-56d9-45ad-9198-faea8eca90c6) | 16.11.2026 |
-| GTA 6 x AI Clipping [Unlimited Budget] (ClipScales) | keiner | 1,00 $ (min. 1,25 $, max. 200,00 $ je Clip) | 0 $ von 0 $, **pausiert** | YouTube | nur Tier-1-Länder, Bio-Code per DM, Entwürfe vorab freigeben | [contentrewards.com](https://contentrewards.com/c/campaigns/9e62f31a-c6fc-4b98-9b3a-c762dd4ef85d) | 16.11.2026 |
-| GTA 6 Clips (Plattform, Kampagnen ab 19.11.) | je Kampagne ein Creator | 1 € (erst ab 5.000 Aufrufen je Clip, max. 30 % des Budgets je Clipper) | noch keine Kampagne offen | TikTok, YouTube Shorts, Instagram Reels | Link oder Erwähnung des Creators; Länge, Tags, Wasserzeichen: nicht angegeben | [gta6-clips.com](https://gta6-clips.com/en/) | 16.11.2026 |
+| Kai Cenat – $10,000 GTA 6 Pool Campaign (Clipped & Shipped) | Kai Cenat | kein fester Satz: Pool von 10.000 $, aufgeteilt nach Aufrufen, Auszahlung nach Ende des Pools | 10.000 $ | TikTok, YouTube Shorts, Instagram Reels, X | erst nach Beitritt sichtbar (3 Dateien) | [contentrewards.com](https://contentrewards.com/c/campaigns/1d2bcb00-c904-415f-aa82-f95b96baad86) | 19.11.2026 |
+| GTA 6 (Reach) | Lacy, GTA-6-Marathon | kein fester Satz: Pool von 7.500 $ | 6.991,64 $; endet mit dem Marathon | Instagram, TikTok, X, YouTube | stehen auf reachclipping.com/LACYGTA, nicht geprüft | [contentrewards.com](https://contentrewards.com/c/campaigns/5aa9471b-1dc9-4a2a-891b-889c8b985426) | 19.11.2026 |
+| Dasgasd3m x RUCKUS – GTA 6 | Dasgasd3m (Dom) | 2,00 $ (min. 10 $, max. 150 $ je Clip) | 1.000 $ von 1.000 $ | TikTok, YouTube | witzige GTA-6-Momente; **eigenes GTA-6-Konto Pflicht**, Streamer-Clip-Konto empfohlen; Brief und 1 Anforderung erst nach Beitritt | [contentrewards.com](https://contentrewards.com/c/campaigns/051002dd-5c46-43d0-a446-43f2957ba3a9) | 19.11.2026 |
+| GTA 6 Clips, Kampagnen #6–#9 | Streamer erst nach Login sichtbar | 1 € (ab 5.000 Aufrufen je Clip, max. 30 % des Budgets je Clipper) | #9: 170 €, #8: 170 €, #7: 85 €, #6: 170 € (spanisch) | TikTok, YouTube Shorts, Instagram Reels | Quellen: Twitch-VOD (#9, #7, #6), Kick-Replay (#8); Details nur mit Login | [gta6-clips.com](https://gta6-clips.com/en/campaigns/) | 19.11.2026 |
+| GTA 6 Clipping Campaign – Tokyo Girl (Placements) | keiner, Musik-Kampagne | 0,70 $ | Stand 16.11.: 1.912 $ | nur TikTok und Instagram | passt nicht zu YouTube Shorts | [contentrewards.com](https://contentrewards.com/c/campaigns/40046522-56d9-45ad-9198-faea8eca90c6) | 16.11.2026 |
 
-Geprüft, aber keine bezahlte Kampagne gefunden:
-
-- [gta6clipping.com](https://gta6clipping.com/) ist eine Agentur für Auftraggeber. Dort steht: „Funded campaigns: 0 as of 16 Nov 2026“.
-- [clipflip.io/advertiser/gta6](https://www.clipflip.io/advertiser/gta6) ist eine Werbeseite für Marken, vor allem Casinos. Eine offene Kampagne für Clipper ist dort nicht angegeben.
-- Die [Discover-Seite von Content Rewards](https://contentrewards.com/c/discover) zeigt nur die Kampagne Tokyo Girl mit GTA-6-Bezug.
+Nicht passend oder nicht geprüft:
+- „GATTOUZ × GTA VI × 1WIN“ (0,35 $): nur Instagram, TikTok und X, kein YouTube. Wirbt außerdem für eine Wett-Seite.
+- [gta6clipping.com](https://gta6clipping.com/) meldet eine finanzierte Kampagne (Stand 18.11.). Sie läuft über Content Rewards und ist wahrscheinlich die von Dasgasd3m.
 
 ## Dein Stand
 
@@ -21,5 +21,7 @@ Geprüft, aber keine bezahlte Kampagne gefunden:
 
 ## Hintergrund
 
-- Der Median-Satz auf Content Rewards liegt bei 1,00 $ je 1.000 Aufrufe über 719 laufende Kampagnen. Für YouTube liegt er bei 1,10 $ über 418 Kampagnen. Stand 16.11.2026, Quelle: [contentrewards.com/blog](https://contentrewards.com/blog/get-paid-clip-streamers)
-- Laut gta6-clips.com erscheint GTA 6 am 19.11.2026 für PS5 und Xbox Series X|S. Die ersten Kampagnen dort öffnen dann.
+- Der Median-Satz auf Content Rewards lag am 16.11.2026 bei 1,00 $ je 1.000 Aufrufe über 719 laufende Kampagnen,
+  für YouTube bei 1,10 $ über 418 Kampagnen. Quelle: [contentrewards.com/blog](https://contentrewards.com/blog/get-paid-clip-streamers)
+- Bei einem Pool gibt es keinen festen Satz. Was ein Clip bringt, hängt von den Aufrufen aller anderen Clipper ab:
+  keine belastbare Angabe vorab.
