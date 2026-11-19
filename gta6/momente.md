@@ -19,3 +19,14 @@ beim Schnitt am echten Bild festgelegt.
 Ausgelassen: 17:55 und 18:01 (Stripclub). Sexuelle Inhalte gefährden auf YouTube Monetarisierung und Reichweite.
 
 Die Stärke ist meine Einschätzung aus Lautstärke, Bild und Transkript. Sie sagt nichts über spätere Aufrufe.
+
+## Neue Session am 19.11.2026 (nach dem Sleep-Stream)
+
+Ausgewertet am 19.11.2026 gegen 15:30 Uhr (Wien): VOD-Zeit 24:21:40 bis 25:14:20. Kai spielt seit etwa 24:22 wieder.
+Methode wie oben (Lautstärke-Spitzen, faster-whisper small, Standbilder alle 10–20 s).
+
+| Nr | Start | Ende | Grund (Satz aus dem Transkript, Lautstärke, Bild) | Stärke 1 bis 5 | Link mit Zeitstempel |
+|---|---|---|---|---|---|
+| 6 | 24:30:40 | 24:33:00 | Mission „Stop the armored van“: Verfolgung des Geldtransporters auf Motorrädern, der Transporter kippt um, Überfall, Flucht auf Dirtbikes mit 4 Sternen; Kai: „Oh, this is getting good bro“ (+8,5) | 5 | [24:30:40](https://www.twitch.tv/videos/2932305259?t=24h30m40s) |
+| 7 | 24:48:10 | 24:49:00 | Kai rast im Buggy über die Landstraße, kracht in ein Auto und überschlägt sich (+7,8) | 4 | [24:48:10](https://www.twitch.tv/videos/2932305259?t=24h48m10s) |
+| 8 | 24:50:20 | 24:50:50 | Kai liest beim Fahren am Handy die Nachricht „Bodies found in trunk of abandoned car“, Anspielung auf frühere Missionen (+5,7); Story-Anspielung, Spoiler-Warnung nötig | 3 | [24:50:20](https://www.twitch.tv/videos/2932305259?t=24h50m20s) |
