@@ -19,11 +19,27 @@ import re
 import subprocess
 import sys
 import tempfile
+import time
 import urllib.parse
 
 import requests
 
 KOPF = {"User-Agent": "Mozilla/5.0", "Accept": "application/json"}
+SITZUNG = requests.Session()
+
+
+def holen(url: str, timeout: int = 60) -> requests.Response:
+    """GET mit bis zu fünf Versuchen, weil lange Downloads über den Proxy gelegentlich abbrechen."""
+    for versuch in range(5):
+        try:
+            antwort = SITZUNG.get(url, headers=KOPF, timeout=timeout)
+            antwort.raise_for_status()
+            return antwort
+        except requests.RequestException:
+            if versuch == 4:
+                raise
+            time.sleep(2 * (versuch + 1))
+    raise RuntimeError("unerreichbar")
 
 
 def sekunden(wert: str) -> float:
@@ -39,7 +55,7 @@ def m3u8_finden(link: str, max_hoehe: int) -> str:
     kick = re.match(r"https?://(?:www\.)?kick\.com/([^/]+)/videos/([0-9a-f-]{36})", link)
     if kick:
         kanal, uuid = kick.groups()
-        videos = requests.get(f"https://kick.com/api/v2/channels/{kanal}/videos", headers=KOPF, timeout=30).json()
+        videos = holen(f"https://kick.com/api/v2/channels/{kanal}/videos", 30).json()
         for v in videos:
             if (v.get("video") or {}).get("uuid") == uuid and v.get("source"):
                 return v["source"]
@@ -79,10 +95,10 @@ def main() -> None:
         sys.exit(f"{ausgabe} gibt es schon, nichts überschrieben.")
 
     url = m3u8_finden(link, max_hoehe)
-    text = requests.get(url, headers=KOPF, timeout=30).text
+    text = holen(url, 30).text
     if "#EXT-X-STREAM-INF" in text:
         url = variante_waehlen(url, text, max_hoehe)
-        text = requests.get(url, headers=KOPF, timeout=30).text
+        text = holen(url, 30).text
 
     init, stuecke, t, dauer = None, [], 0.0, 0.0
     for zeile in text.splitlines():
@@ -100,9 +116,9 @@ def main() -> None:
     endung = ".mp4" if init else ".ts"
     with tempfile.NamedTemporaryFile(suffix=endung, delete=False) as roh:
         if init:
-            roh.write(requests.get(init, headers=KOPF, timeout=30).content)
+            roh.write(holen(init, 30).content)
         for _, _, u in auswahl:
-            roh.write(requests.get(u, headers=KOPF, timeout=60).content)
+            roh.write(holen(u, 60).content)
         rohpfad = roh.name
     try:
         subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-n", "-i", rohpfad,
