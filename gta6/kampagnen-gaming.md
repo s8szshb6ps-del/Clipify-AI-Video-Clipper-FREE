@@ -9,6 +9,13 @@ Alle drei laufen über „Clipping Culture“. Regeln im Detail (1 Regel, Refere
 | SEGA – STRANGER THAN HEAVEN Act 2 Trailer Clipping | Act 2 Story Trailer | bis 2,00 $ | 2 $ / 800 $ | 16.515,54 $ von 24.000 $ | wie oben | 194 | [contentrewards.com](https://contentrewards.com/c/campaigns/65724060-69de-4dc7-a523-4843b7358871) | 19.11.2026 |
 | SEGA – Football Manager 27 – USA/Canada Influencer | Videos von Creatorn zu Football Manager 27 | bis 2,00 $ | 2 $ / 800 $ | 14.516,05 $ von 14.516,05 $ | **nur Zuschauer aus USA und Kanada** | 0 (gestern gestartet) | [contentrewards.com](https://contentrewards.com/c/campaigns/7f4b31b0-ed1f-49b8-823a-97d7e18e0952) | 19.11.2026 |
 
+## Metaphor: ReFantazio, Regeln nach Beitritt
+
+Vom Nutzer eingefügt am 19.11.2026, beigetreten mit Checkpoint Moments:
+- Caption muss **#Ad**, **#Advertisement** oder **#Sponsored** enthalten.
+- Keine expliziten Inhalte.
+- Referenzdatei: für den Nutzer nicht auffindbar.
+
 Hinweise:
 - „Bis 2,00 $“: der Satz kann je nach Land darunter liegen. Bei Aufrufen ohne Länderdaten zahlt die Kampagne nichts.
 - Die Trailer liegen vermutlich auf YouTube. YouTube-Downloads blockiert YouTube in der Cloud-Umgebung; Quelle dann
