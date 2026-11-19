@@ -15,8 +15,8 @@ ffprobe: 1080x1920, 30 fps, 49,0 s, Video und Ton vorhanden.
 | Quelle erlaubt (Kampagne, Stream, Zeitraum) | nur Kai Cenats GTA-6-Marathon auf Twitch oder YouTube | Twitch-VOD 2932305259, VOD-Zeit 17:04:51–17:05:40 | ok |
 | Plattform erlaubt | TikTok, YouTube Shorts, Instagram Reels, X | YouTube Shorts | ok |
 | Frist und Einreichungsfenster | keine Frist genannt; Kampagne „Accepting clips“ | am 19.11.2026 offen | ok |
-| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton (Stimmen, Schüsse, Quad). Ob Radiomusik läuft, konnte ich nicht hören | unklar |
+| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton (Stimmen, Schüsse, Quad); laut Nutzer keine Musik zu hören (geprüft 19.11.2026) | ok |
 
-**Gesamturteil: noch nicht bereit.** Hör dir den Clip einmal mit Ton an. Läuft keine Musik, setze ich ihn auf `bereit`.
+**Gesamturteil: bereit.** Kein Punkt ist `Problem` oder `unklar`. Das Posten und Einreichen machst du selbst.
 
 Prüfe erneut, wenn zwischen diesem Check und dem Posten mehr als ein Tag liegt.
