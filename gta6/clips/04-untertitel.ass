@@ -1,0 +1,98 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Wort,League Spartan Black,150,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,10,0,2,60,60,480,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.56,Wort,,0,0,0,,{\c&H14FF39&}I {\c&HFFFFFF&}CAN'T {\c&HFFFFFF&}TALK
+Dialogue: 0,0:00:00.56,0:00:01.18,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&H14FF39&}CAN'T {\c&HFFFFFF&}TALK
+Dialogue: 0,0:00:01.18,0:00:01.46,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&HFFFFFF&}CAN'T {\c&H14FF39&}TALK
+Dialogue: 0,0:00:01.46,0:00:01.60,Wort,,0,0,0,,{\c&H14FF39&}TO {\c&HFFFFFF&}YOU {\c&HFFFFFF&}WHEN
+Dialogue: 0,0:00:01.60,0:00:01.68,Wort,,0,0,0,,{\c&HFFFFFF&}TO {\c&H14FF39&}YOU {\c&HFFFFFF&}WHEN
+Dialogue: 0,0:00:01.68,0:00:01.76,Wort,,0,0,0,,{\c&HFFFFFF&}TO {\c&HFFFFFF&}YOU {\c&H14FF39&}WHEN
+Dialogue: 0,0:00:01.76,0:00:02.00,Wort,,0,0,0,,{\c&H14FF39&}YOU'RE {\c&HFFFFFF&}LIKE
+Dialogue: 0,0:00:02.00,0:00:02.26,Wort,,0,0,0,,{\c&HFFFFFF&}YOU'RE {\c&H14FF39&}LIKE
+Dialogue: 0,0:00:02.26,0:00:02.62,Wort,,0,0,0,,{\c&H14FF39&}THIS
+Dialogue: 0,0:00:07.16,0:00:07.34,Wort,,0,0,0,,{\c&H14FF39&}IT {\c&HFFFFFF&}WAS {\c&HFFFFFF&}Y'ALL
+Dialogue: 0,0:00:07.34,0:00:07.48,Wort,,0,0,0,,{\c&HFFFFFF&}IT {\c&H14FF39&}WAS {\c&HFFFFFF&}Y'ALL
+Dialogue: 0,0:00:07.48,0:00:07.78,Wort,,0,0,0,,{\c&HFFFFFF&}IT {\c&HFFFFFF&}WAS {\c&H14FF39&}Y'ALL
+Dialogue: 0,0:00:07.78,0:00:08.08,Wort,,0,0,0,,{\c&H14FF39&}FUCKING {\c&HFFFFFF&}FAULT
+Dialogue: 0,0:00:08.08,0:00:08.46,Wort,,0,0,0,,{\c&HFFFFFF&}FUCKING {\c&H14FF39&}FAULT
+Dialogue: 0,0:00:11.74,0:00:11.86,Wort,,0,0,0,,{\c&H14FF39&}THAT {\c&HFFFFFF&}N****'S
+Dialogue: 0,0:00:11.86,0:00:12.32,Wort,,0,0,0,,{\c&HFFFFFF&}THAT {\c&H14FF39&}N****'S
+Dialogue: 0,0:00:12.32,0:00:12.52,Wort,,0,0,0,,{\c&H14FF39&}DOING {\c&HFFFFFF&}TOO
+Dialogue: 0,0:00:12.52,0:00:12.82,Wort,,0,0,0,,{\c&HFFFFFF&}DOING {\c&H14FF39&}TOO
+Dialogue: 0,0:00:12.82,0:00:12.94,Wort,,0,0,0,,{\c&H14FF39&}MUCH.
+Dialogue: 0,0:00:13.04,0:00:13.12,Wort,,0,0,0,,{\c&H14FF39&}Y'ALL {\c&HFFFFFF&}FUCKING
+Dialogue: 0,0:00:13.12,0:00:13.40,Wort,,0,0,0,,{\c&HFFFFFF&}Y'ALL {\c&H14FF39&}FUCKING
+Dialogue: 0,0:00:13.40,0:00:13.60,Wort,,0,0,0,,{\c&H14FF39&}THE {\c&HFFFFFF&}PUSSY {\c&HFFFFFF&}UP!
+Dialogue: 0,0:00:13.60,0:00:13.94,Wort,,0,0,0,,{\c&HFFFFFF&}THE {\c&H14FF39&}PUSSY {\c&HFFFFFF&}UP!
+Dialogue: 0,0:00:13.94,0:00:14.26,Wort,,0,0,0,,{\c&HFFFFFF&}THE {\c&HFFFFFF&}PUSSY {\c&H14FF39&}UP!
+Dialogue: 0,0:00:14.60,0:00:14.82,Wort,,0,0,0,,{\c&H14FF39&}Y'ALL {\c&HFFFFFF&}N****S
+Dialogue: 0,0:00:14.82,0:00:15.00,Wort,,0,0,0,,{\c&HFFFFFF&}Y'ALL {\c&H14FF39&}N****S
+Dialogue: 0,0:00:15.00,0:00:15.28,Wort,,0,0,0,,{\c&H14FF39&}FUCKING {\c&HFFFFFF&}THE
+Dialogue: 0,0:00:15.28,0:00:15.54,Wort,,0,0,0,,{\c&HFFFFFF&}FUCKING {\c&H14FF39&}THE
+Dialogue: 0,0:00:15.54,0:00:15.86,Wort,,0,0,0,,{\c&H14FF39&}PUSSY {\c&HFFFFFF&}UP,
+Dialogue: 0,0:00:15.86,0:00:16.12,Wort,,0,0,0,,{\c&HFFFFFF&}PUSSY {\c&H14FF39&}UP,
+Dialogue: 0,0:00:18.36,0:00:18.52,Wort,,0,0,0,,{\c&H14FF39&}I {\c&HFFFFFF&}CAN {\c&HFFFFFF&}GET
+Dialogue: 0,0:00:18.52,0:00:18.57,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&H14FF39&}CAN {\c&HFFFFFF&}GET
+Dialogue: 0,0:00:18.56,0:00:18.68,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&HFFFFFF&}CAN {\c&H14FF39&}GET
+Dialogue: 0,0:00:18.68,0:00:18.90,Wort,,0,0,0,,{\c&H14FF39&}THIS {\c&HFFFFFF&}QUICK
+Dialogue: 0,0:00:18.90,0:00:19.10,Wort,,0,0,0,,{\c&HFFFFFF&}THIS {\c&H14FF39&}QUICK
+Dialogue: 0,0:00:19.10,0:00:19.38,Wort,,0,0,0,,{\c&H14FF39&}LITTLE {\c&HFFFFFF&}FUCKING
+Dialogue: 0,0:00:19.38,0:00:19.82,Wort,,0,0,0,,{\c&HFFFFFF&}LITTLE {\c&H14FF39&}FUCKING
+Dialogue: 0,0:00:19.82,0:00:20.08,Wort,,0,0,0,,{\c&H14FF39&}NUT!
+Dialogue: 0,0:00:20.52,0:00:20.72,Wort,,0,0,0,,{\c&H14FF39&}Y'ALL {\c&HFFFFFF&}N****S
+Dialogue: 0,0:00:20.72,0:00:20.92,Wort,,0,0,0,,{\c&HFFFFFF&}Y'ALL {\c&H14FF39&}N****S
+Dialogue: 0,0:00:20.92,0:00:21.24,Wort,,0,0,0,,{\c&H14FF39&}FUCKING {\c&HFFFFFF&}SHIT
+Dialogue: 0,0:00:21.24,0:00:21.52,Wort,,0,0,0,,{\c&HFFFFFF&}FUCKING {\c&H14FF39&}SHIT
+Dialogue: 0,0:00:21.52,0:00:21.68,Wort,,0,0,0,,{\c&H14FF39&}UP,
+Dialogue: 0,0:00:21.74,0:00:22.16,Wort,,0,0,0,,{\c&H14FF39&}BRO!
+Dialogue: 0,0:00:22.88,0:00:23.16,Wort,,0,0,0,,{\c&H14FF39&}LIKE,
+Dialogue: 0,0:00:23.30,0:00:23.82,Wort,,0,0,0,,{\c&H14FF39&}DAMN!
+Dialogue: 0,0:00:24.88,0:00:25.20,Wort,,0,0,0,,{\c&H14FF39&}LIKE,
+Dialogue: 0,0:00:25.32,0:00:25.52,Wort,,0,0,0,,{\c&H14FF39&}COME {\c&HFFFFFF&}ON,
+Dialogue: 0,0:00:25.52,0:00:25.94,Wort,,0,0,0,,{\c&HFFFFFF&}COME {\c&H14FF39&}ON,
+Dialogue: 0,0:00:26.00,0:00:26.50,Wort,,0,0,0,,{\c&H14FF39&}BRO!
+Dialogue: 0,0:00:27.14,0:00:27.44,Wort,,0,0,0,,{\c&H14FF39&}LIKE,
+Dialogue: 0,0:00:27.50,0:00:27.86,Wort,,0,0,0,,{\c&H14FF39&}NAH,
+Dialogue: 0,0:00:28.02,0:00:28.30,Wort,,0,0,0,,{\c&H14FF39&}BRO.
+Dialogue: 0,0:00:28.30,0:00:28.66,Wort,,0,0,0,,{\c&H14FF39&}LIKE,
+Dialogue: 0,0:00:28.66,0:00:28.94,Wort,,0,0,0,,{\c&H14FF39&}BRO,
+Dialogue: 0,0:00:28.98,0:00:29.44,Wort,,0,0,0,,{\c&H14FF39&}COME {\c&HFFFFFF&}ON,
+Dialogue: 0,0:00:29.44,0:00:29.98,Wort,,0,0,0,,{\c&HFFFFFF&}COME {\c&H14FF39&}ON,
+Dialogue: 0,0:00:30.18,0:00:30.30,Wort,,0,0,0,,{\c&H14FF39&}CHAT.
+Dialogue: 0,0:00:30.92,0:00:31.14,Wort,,0,0,0,,{\c&H14FF39&}LIKE,
+Dialogue: 0,0:00:31.14,0:00:31.36,Wort,,0,0,0,,{\c&H14FF39&}ARE {\c&HFFFFFF&}WE
+Dialogue: 0,0:00:31.36,0:00:31.60,Wort,,0,0,0,,{\c&HFFFFFF&}ARE {\c&H14FF39&}WE
+Dialogue: 0,0:00:31.60,0:00:32.24,Wort,,0,0,0,,{\c&H14FF39&}SERIOUS?
+Dialogue: 0,0:00:43.86,0:00:44.06,Wort,,0,0,0,,{\c&H14FF39&}ALRIGHT,
+Dialogue: 0,0:00:44.68,0:00:44.73,Wort,,0,0,0,,{\c&H14FF39&}BRO.
+Dialogue: 0,0:00:46.56,0:00:46.78,Wort,,0,0,0,,{\c&H14FF39&}ALRIGHT,
+Dialogue: 0,0:00:46.88,0:00:47.34,Wort,,0,0,0,,{\c&H14FF39&}BRO.
+Dialogue: 0,0:00:53.42,0:00:53.66,Wort,,0,0,0,,{\c&H14FF39&}BITCH,
+Dialogue: 0,0:00:53.66,0:00:53.90,Wort,,0,0,0,,{\c&H14FF39&}BITCH,
+Dialogue: 0,0:00:53.98,0:00:54.03,Wort,,0,0,0,,{\c&H14FF39&}I {\c&HFFFFFF&}DON'T {\c&HFFFFFF&}EVEN
+Dialogue: 0,0:00:54.00,0:00:54.10,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&H14FF39&}DON'T {\c&HFFFFFF&}EVEN
+Dialogue: 0,0:00:54.10,0:00:54.26,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&HFFFFFF&}DON'T {\c&H14FF39&}EVEN
+Dialogue: 0,0:00:54.26,0:00:54.40,Wort,,0,0,0,,{\c&H14FF39&}WANT {\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:54.40,0:00:54.54,Wort,,0,0,0,,{\c&HFFFFFF&}WANT {\c&H14FF39&}YOU
+Dialogue: 0,0:00:54.54,0:00:54.84,Wort,,0,0,0,,{\c&H14FF39&}ANYWAY,
+Dialogue: 0,0:00:55.40,0:00:55.45,Wort,,0,0,0,,{\c&H14FF39&}BITCH.
+Dialogue: 0,0:00:55.64,0:00:55.90,Wort,,0,0,0,,{\c&H14FF39&}BITCH,
+Dialogue: 0,0:00:55.98,0:00:56.03,Wort,,0,0,0,,{\c&H14FF39&}I,
+Dialogue: 0,0:00:56.10,0:00:56.58,Wort,,0,0,0,,{\c&H14FF39&}BITCH,
+Dialogue: 0,0:00:56.84,0:00:57.18,Wort,,0,0,0,,{\c&H14FF39&}BITCH,
+Dialogue: 0,0:00:57.46,0:00:57.86,Wort,,0,0,0,,{\c&H14FF39&}MOVE.
+Dialogue: 0,0:00:58.70,0:00:58.88,Wort,,0,0,0,,{\c&H14FF39&}I {\c&HFFFFFF&}DON'T {\c&HFFFFFF&}EVEN
+Dialogue: 0,0:00:58.88,0:00:58.94,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&H14FF39&}DON'T {\c&HFFFFFF&}EVEN
+Dialogue: 0,0:00:58.94,0:00:59.04,Wort,,0,0,0,,{\c&HFFFFFF&}I {\c&HFFFFFF&}DON'T {\c&H14FF39&}EVEN
+Dialogue: 0,0:00:59.04,0:00:59.16,Wort,,0,0,0,,{\c&H14FF39&}WANT {\c&HFFFFFF&}YOU
+Dialogue: 0,0:00:59.16,0:00:59.32,Wort,,0,0,0,,{\c&HFFFFFF&}WANT {\c&H14FF39&}YOU
+Dialogue: 0,0:00:59.32,0:00:59.60,Wort,,0,0,0,,{\c&H14FF39&}ANYWAY.
