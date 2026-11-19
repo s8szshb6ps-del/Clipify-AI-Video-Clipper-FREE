@@ -15,10 +15,8 @@ ffprobe: 1080x1920, 30 fps, 22,5 s, Video und Ton vorhanden.
 | Quelle erlaubt (Kampagne, Stream, Zeitraum) | nur Kai Cenats GTA-6-Marathon auf Twitch oder YouTube | Twitch-VOD 2932305259, „PLAYING GTA 6 FOR THE FIRST TIME“, VOD-Zeit 15:24:06–15:24:29 | ok |
 | Plattform erlaubt | TikTok, YouTube Shorts, Instagram Reels, X | YouTube Shorts | ok |
 | Frist und Einreichungsfenster | keine Frist genannt; Kampagne „Accepting clips“ | am 19.11.2026 offen | ok |
-| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton aus dem Stream (Dialog, Schüsse). Ob Radiomusik aus dem Spiel läuft, konnte ich nicht hören. Musik kann auf YouTube Content-ID-Ansprüche auslösen | unklar |
+| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton aus dem Stream (Dialog, Schüsse); laut Nutzer keine Musik zu hören (geprüft 19.11.2026) | ok |
 
-**Gesamturteil: noch nicht bereit.** Ein Punkt ist `unklar`: Hör dir den Clip einmal mit Ton an. Läuft keine Musik im
-Hintergrund, setze ich den Punkt auf `ok` und das Urteil auf `bereit`. Läuft Musik, frag im Discord oder Support der
-Kampagne (Clipped & Shipped) nach, oder ich schneide die Stelle heraus.
+**Gesamturteil: bereit.** Kein Punkt ist `Problem` oder `unklar`. Das Posten und Einreichen machst du selbst.
 
 Prüfe erneut, wenn zwischen diesem Check und dem Posten mehr als ein Tag liegt.
