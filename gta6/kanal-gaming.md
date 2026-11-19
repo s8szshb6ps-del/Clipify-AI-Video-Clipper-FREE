@@ -1,4 +1,6 @@
-# Zweiter Kanal: Gaming allgemein
+# Zweiter Kanal: Checkpoint Moments (@checkpointmoments)
+
+Gewählt vom Nutzer am 19.11.2026: **Checkpoint Moments**, Handle **@checkpointmoments**.
 
 Erstellt am 19.11.2026. Plattform: YouTube Shorts, Sprache: Englisch, Nische: Gaming allgemein
 (Game-Trailer und Gaming-Streamer). Neuer Kanal, getrennt vom GTA-6-Kanal, damit dieser ein reiner GTA-6-Kanal bleibt.
@@ -43,7 +45,7 @@ Bereits vergeben (geprüft): @checkpointclips, @pressstartshorts, @finalbossclip
 ## Banner und Profilbild
 
 - **Banner-Text:** „Gaming Moments, Daily“, darunter kleiner: „Trailers · Streamer reactions · Wild plays“.
-- **Profilbild-Idee:** Selbst gestaltet: eine schlichte Checkpoint-Flagge oder ein Pixel-Pfeil in Neongrün (#39FF14)
+- **Profilbild-Idee:** Selbst gestaltet: eine schlichte Checkpoint-Flagge (passt zum Namen) oder ein Pixel-Pfeil in Neongrün (#39FF14)
   auf dunklem Grund. Passt zu deinem Untertitel-Grün. Keine Spielgrafik, keine fremden Logos.
 
 ## Drei Playlists
@@ -56,7 +58,7 @@ Bereits vergeben (geprüft): @checkpointclips, @pressstartshorts, @finalbossclip
 
 - [ ] In YouTube einen neuen Kanal anlegen (Profilbild → Kanal wechseln → Kanal erstellen). Er kann am selben
       Google-Konto hängen wie dein GTA-6-Kanal.
-- [ ] Namen und Handle setzen
+- [ ] Namen „Checkpoint Moments“ und Handle @checkpointmoments setzen
 - [ ] Beschreibung einfügen, Kanalsprache auf Englisch
 - [ ] Banner und Profilbild hochladen
 - [ ] Die drei Playlists anlegen
