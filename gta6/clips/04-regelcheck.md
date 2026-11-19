@@ -14,9 +14,9 @@ ffprobe: 1080x1920, 30 fps, 60,0 s, Video und Ton vorhanden.
 | Quelle erlaubt | nur Kai Cenats GTA-6-Marathon auf Twitch oder YouTube | Twitch-VOD 2932305259, VOD-Zeit 2:54:41–2:55:41 | ok |
 | Plattform erlaubt | TikTok, YouTube Shorts, Instagram Reels, X | YouTube Shorts | ok |
 | Frist und Einreichungsfenster | keine Frist genannt | Kampagne am 19.11.2026 offen | ok |
-| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton und Kais Stimme; ob Musik läuft, konnte ich nicht hören | unklar |
+| Musik oder Fremdmaterial im Clip | nicht angegeben | Spielton und Kais Stimme; vom Nutzer angehört und freigegeben (19.11.2026) | ok |
 
-**Gesamturteil: noch nicht bereit.** Hör einmal rein: Läuft keine Musik, setze ich den Clip auf `bereit`.
+**Gesamturteil: bereit.** Kein Punkt ist `Problem` oder `unklar`. Das Posten und Einreichen machst du selbst.
 
 Außerhalb der Kampagnenregeln, Hinweis für YouTube: viele Schimpfwörter, das N-Wort im Ton (im Bild zensiert) und
 sexuelle Anspielungen. Rechne mit eingeschränkter Werbung oder Altersbeschränkung. Entscheidung des Nutzers: so posten.
